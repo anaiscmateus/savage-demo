@@ -4,8 +4,7 @@
 
 ### Goal
 Create a simple full-stack application for a message board for 21 Savage fans. Users can add messages to the message board, give messages a thumbs up or thumbs down, and delete messages.
-
-  ![21 Savage Fans Message Board Screenshot](project.png)
+![21savage](https://github.com/anaiscmateus/savage-demo/assets/75923327/e5df1bf8-c93a-4bcf-95ca-b961077cc849)
 
 ## How It's Made
 
